@@ -5,6 +5,9 @@ contributor:
     agent_name: Lutjens
     gutenberg_agent_id: '47216'
     url: http://www.gutenberg.org/2009/agents/47216
+covers:
+- cover_type: archival
+  image_path: 72431-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrison, Harry
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25395
     wikipedia: http://en.wikipedia.org/wiki/Harry_Harrison_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72431#Down-to-Earth
 gutenberg_issued: '2023-12-16'
 gutenberg_type: Text
 identifiers:
